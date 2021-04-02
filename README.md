@@ -23,6 +23,10 @@
   </sub>
 </div>
 
+# :coffee: About
+ This app was developed based on Google's Android Kotlin  basics course 
+
+
 # 📌 Contents
 
 * [Screenshots](#camera-screenshot)
@@ -32,7 +36,7 @@
 # :camera: Screenshots
 <div align="center">
    <img src="./.github/assets/screenshots/home.png" width="300px">
-   <img src="./.github/assets/screenshots/transacoes.png" width="300px">
+
 </div>
 
 # :rocket: Technologies
