@@ -35,7 +35,7 @@ This app was developed based on [Google's Android Kotlin basics course](https://
 
 # :camera: Screenshots
 <div align="center">
-   <img src="./.dicegif.gif" width="300px">
+   <img src="https://github.com/moraesnicol/dice_roll/blob/master/dicegif.gif" width="300px">
 
 </div>
 
