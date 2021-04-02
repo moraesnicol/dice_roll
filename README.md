@@ -6,18 +6,11 @@
 
 <p align="center">
    <a href="https://www.linkedin.com/in/moraesnicol/">
-      <img alt="Gabriel Nicol" src="https://img.shields.io/badge/-bernardoveras-6D5FFD?style=flat&logo=Linkedin&logoColor=white" />
+      <img alt="Gabriel Nicol" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
    </a>
-  <img alt="Languages" src="https://img.shields.io/github/languages/count/bernardoveras/intera-frontend?color=6D5FFD" />
-  <img alt="lastcommit" src="https://img.shields.io/github/last-commit/bernardoveras/intera-frontend?color=6D5FFD" />
-  <img alt="License" src="https://img.shields.io/github/license/bernardoveras/intera-frontend?color=6D5FFD" />
-  <img alt="Issues" src="https://img.shields.io/github/issues/bernardoveras/intera-frontend?color=6D5FFD">
-  <a href="mailto:moraesnicol@gmail.com">
-   <img alt="E-mail" src="https://img.shields.io/badge/-bernardo@vvssistemas.com.br-6D5FFD" />
-  </a>
+ 
 </p>
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/moraesnicol/)
 <p align="center">
   💲 Play the dice
 </p>
@@ -53,4 +46,4 @@ This project was made using the follow technologies:
 # :page_facing_up: License
 
 This project is under the [MIT License](./LICENSE) |
-Made with 💖 by [Bernardo Veras](https://www.linkedin.com/in/gabrielnicol/).
+Made with 💖 by [Gabriel Nicol](https://www.linkedin.com/in/gabrielnicol/).
