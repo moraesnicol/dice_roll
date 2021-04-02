@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  💲 Play the dice
+  :heavy_check_mark: Play the dice
 </p>
 
 <hr />
