@@ -24,7 +24,9 @@
 </div>
 
 # :coffee: About
- This app was developed based on [Google's Android Kotlin  basics course](https://developer.android.com/courses/android-basics-kotlin/course).
+
+
+ This app was developed based on [Google's Android Kotlin basics course](https://developer.android.com/courses/android-basics-kotlin/course).
 
 
 # 📌 Contents
