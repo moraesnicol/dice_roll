@@ -1,12 +1,12 @@
 
 
 <p align="center">
-   <img src="./.github/assets/logo.png" alt="dt money" width="300"/>
+   <img src="https://github.com/moraesnicol/dice_roll/blob/master/logokotlin.png" alt="kotlin" width="300"/>
 </p>
 
 <p align="center">
-   <a href="https://www.linkedin.com/in/bernardoveras/">
-      <img alt="Bernardo Veras" src="https://img.shields.io/badge/-bernardoveras-6D5FFD?style=flat&logo=Linkedin&logoColor=white" />
+   <a href="https://www.linkedin.com/in/moraesnicol/">
+      <img alt="Gabriel Nicol" src="https://img.shields.io/badge/-bernardoveras-6D5FFD?style=flat&logo=Linkedin&logoColor=white" />
    </a>
   <img alt="Languages" src="https://img.shields.io/github/languages/count/bernardoveras/intera-frontend?color=6D5FFD" />
   <img alt="lastcommit" src="https://img.shields.io/github/last-commit/bernardoveras/intera-frontend?color=6D5FFD" />
