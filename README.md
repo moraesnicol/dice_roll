@@ -1,7 +1,7 @@
 
 
 <p align="center">
-   <img src="https://github.com/moraesnicol/dice_roll/blob/master/logokotlin.png" alt="kotlin" width="300"/>
+   <img src="https://github.com/moraesnicol/dice_roll/blob/master/logokotlin2.png" alt="kotlin" width="300"/>
 </p>
 
 <p align="center">
